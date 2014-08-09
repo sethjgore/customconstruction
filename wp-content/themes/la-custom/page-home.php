@@ -9,7 +9,7 @@ get_header(); ?>
 
     <div id="fwslider"><!-- start slider -->
         <div class="slider_container">
-            <div class="slide"> 
+            <div class="slide">
                 <!-- Slide image -->
                     <img src="<?php bloginfo('template_url'); ?>/images/slider1.jpg">
                 <!-- /Slide image -->
@@ -30,10 +30,6 @@ get_header(); ?>
             <div class="slide">
                 <img src="<?php bloginfo('template_url'); ?>/images/slider2.jpg">
                 <div class="slide_content">
-                    <div class="slide_content_wrap">
-                        <h4 class="title">We don't build houses.<br>We build homes.</h4>
-                        <p class="description">Let us help you design a place you love calling home.</p>
-                    </div>
                 </div>
             </div>
             <!--/slide -->
@@ -44,7 +40,7 @@ get_header(); ?>
     </div><!--/slider -->
 <div class="main_bg"><!-- start main -->
 <div class="container">
-	<div class="main_grid">		
+	<div class="main_grid">
 		<div class="top_grid"><!-- start top_grid -->
 
 				<div class="col-md-10 span1_of_1">
@@ -74,8 +70,8 @@ get_header(); ?>
 					<p>Let us explain our construction overview and help you understand what the custom home process can look like for you.</p>
 					<div class="read_more">
 						<a class="btn  btn-2b" href="<?php bloginfo('url'); ?>/contact">Get Started</a>
-					</div>	
-				</div>	
+					</div>
+				</div>
 			</div>
 			<div class="col-md-3 span1_of_4">
 				<div class="span4_of_list">
@@ -84,7 +80,7 @@ get_header(); ?>
 					<p>Ready to get moving? Get in touch with us today to get started building the home of your dreams!</p>
 					<div class="read_more">
 						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/contact">Say hello</a>
-					</div>		
+					</div>
 				</div>
 			</div>
 			<div class="col-md-3 span1_of_4">
@@ -94,7 +90,7 @@ get_header(); ?>
 					<p>Not sure exactly what you need? Check out our exploration department to find inspiration and fresh ideas.</p>
 					<div class="read_more">
 						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/portfolio">Get inspired</a>
-					</div>						
+					</div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
@@ -124,8 +120,8 @@ get_header(); ?>
                     <li><img src="<?php bloginfo('template_url'); ?>/images/slider_pic3.jpg" alt="" class="img-responsive"/></li>
                     <li><img src="<?php bloginfo('template_url'); ?>/images/slider_pic4.jpg" alt="" class="img-responsive"/></li>
                     <li><img src="<?php bloginfo('template_url'); ?>/images/slider_pic5.jpg" alt="" class="img-responsive"/></li>
-                      
-                </ul>    
+
+                </ul>
           </div>
 </div>
 </div>
