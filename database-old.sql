@@ -118,7 +118,7 @@ CREATE TABLE IF NOT EXISTS `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://clients.hatchit.co/customconstruction', 'yes'),
+(1, 'siteurl', 'http://lacustomconstruction.com', 'yes'),
 (2, 'blogname', 'LA Custom Construction', 'yes'),
 (3, 'blogdescription', 'Just another WordPress site', 'yes'),
 (4, 'users_can_register', '0', 'yes'),
@@ -150,7 +150,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (30, 'blog_charset', 'UTF-8', 'yes'),
 (31, 'moderation_keys', '', 'no'),
 (32, 'active_plugins', 'a:1:{i:0;s:19:"jetpack/jetpack.php";}', 'yes'),
-(33, 'home', 'http://clients.hatchit.co/customconstruction', 'yes'),
+(33, 'home', 'http://lacustomconstruction.com', 'yes'),
 (34, 'category_base', '', 'yes'),
 (35, 'ping_sites', 'http://rpc.pingomatic.com/', 'yes'),
 (36, 'advanced_edit', '0', 'yes'),
