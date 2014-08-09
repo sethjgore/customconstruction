@@ -11,7 +11,7 @@ get_header(); ?>
         <div class="slider_container">
             <div class="slide">
                 <!-- Slide image -->
-                    <img src="<?php bloginfo('template_url'); ?>/images/slider1.jpg">
+                    <img src="<?php bloginfo('template_url'); ?>/images/slider2.jpg">
                 <!-- /Slide image -->
                 <!-- Texts container -->
                 <div class="slide_content">
@@ -20,7 +20,7 @@ get_header(); ?>
             </div>
             <!-- /Duplicate to create more slides -->
             <div class="slide">
-                <img src="<?php bloginfo('template_url'); ?>/images/slider2.jpg">
+                <img src="<?php bloginfo('template_url'); ?>/images/slider1.jpg">
                 <div class="slide_content">
                 </div>
             </div>
