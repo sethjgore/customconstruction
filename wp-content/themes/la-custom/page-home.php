@@ -57,16 +57,6 @@ get_header(); ?>
 			</div>
 			<div class="col-md-3 span1_of_4">
 				<div class="span4_of_list">
-					<span><i class="fa fa-lock"></i></span>
-					<h3>Learn The Process</h3>
-					<p>Let us explain our construction overview and help you understand what the custom home process can look like for you.</p>
-					<div class="read_more">
-						<a class="btn  btn-2b" href="<?php bloginfo('url'); ?>/contact">Get Started</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3 span1_of_4">
-				<div class="span4_of_list">
 					<span><i class="fa fa-flag"></i></span>
 					<h3>Getting Started</h3>
 					<p>Ready to get moving? Get in touch with us today to get started building the home of your dreams!</p>
