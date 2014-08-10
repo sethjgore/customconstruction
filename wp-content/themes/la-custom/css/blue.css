@@ -1609,7 +1609,7 @@ h3.style{
 }
 
 .allinone_carousel.charming .contentHolderUnit{
-  background: white;
+  background: white !important;
   padding: 3rem;
   font-size: 2rem;
   border: 2px solid hsl(0, 0%, 81%);
@@ -1621,5 +1621,5 @@ h3.style{
 }
 
 .is_display-none{
-  color:;
+  display: none;
 }
