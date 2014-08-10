@@ -33,19 +33,8 @@ get_header(); ?>
 <div class="main_bg"><!-- start main -->
 <div class="container">
 	<div class="main_grid">
-		<div class="top_grid"><!-- start top_grid -->
-
-				<div class="col-md-10 span1_of_1">
-						<h3>Get in touch with us today!</h3>
-						<p>Building a custom home should be an exciting and enjoyable process. Get in touch with us today so we can help you start your journey!</p>
-				</div>
-				<div class="col-md-2 span1_of_2">
-					<a class="btn" href="<?php bloginfo('url') ?>/contact">Contact Us</a>
-				</div>
-				<div class="clearfix"></div>
-		</div>
-		<div class="span_of_4"><!-- start span_of_4 -->
-			<div class="col-md-3 span1_of_4">
+		<div class="span_of_3"><!-- start span_of_4 -->
+			<div class="col-md-3">
 				<div class="span4_of_list">
 					<span><i class="fa fa-thumbs-o-up"></i></span>
 					<h3>Follow Us</h3>
@@ -55,17 +44,18 @@ get_header(); ?>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3 span1_of_4">
+			<div class="col-md-6">
 				<div class="span4_of_list">
 					<span><i class="fa fa-flag"></i></span>
 					<h3>Getting Started</h3>
-					<p>Ready to get moving? Get in touch with us today to get started building the home of your dreams!</p>
+					<p>We are happy to build on your lot or a lot from our inventory. If you don't already have a house plan, we will work alongside you and an architect to create a plan that meets your needs. We will estimate the construction cost of your home based upon your plans and finishes, striving to give you a competitive price without sacrificing quality. We are happy to provide construction financing through our lenders.
+</p>
 					<div class="read_more">
 						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/contact">Say hello</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3 span1_of_4">
+			<div class="col-md-3">
 				<div class="span4_of_list">
 					<span><i class="fa fa-flask"></i></span>
 					<h3>Exploration</h3>

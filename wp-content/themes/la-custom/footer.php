@@ -12,15 +12,15 @@
     <div class="col-md-4 footer1_of_3">
       <div class="f_logo">
         <a href="/"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" style="width: 100px"/></a>
-      </div>    
+      </div>
       <p class="f_para">
 
 </p>
-      <p>Phone:&nbsp;<span>(225) 757-6567</span></p>
-      <span class="">Address:&nbsp;17301 Jefferson Hwy, Baton Rouge, LA 70817</span>
+      <p>Phone:&nbsp;<span>225.931.6981</span></p>
+      <span class="">Address:&nbsp;17301 Jefferson Hwy Suite 1B Baton Rouge, La 70817</span>
     </div>
     <div class="col-md-2 footer1_of_3">
-        
+
     </div>
     <div class="col-md-4 footer_of_3">
 
