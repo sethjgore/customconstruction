@@ -94,13 +94,23 @@ get_header(); ?>
                     <li><img src="<?php bloginfo('template_url'); ?>/images/slider_pic5.jpg" alt="" class="img-responsive"/></li>
 
                 </ul>
-                <ul class="allinone_carousel_list">
-                  <li>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business<h3>Ken and Valerie</h3></li>
-                </ul>
           </div>
 </div>
 </div>
  <!-- end banner -->
+<div id="bannerBg">
+<div id="containingDiv">
+            <div id="allinone_carousel_charming">
+              <div class="myloader"></div>
+                <!-- CONTENT -->
+                <ul class="allinone_carousel_list">
+                  <li>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business<h3>Ken and Valerie</h3></li>
+                  <li>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business<h3>Ken and Valerie</h3></li>
+
+                </ul>
+          </div>
+</div>
+</div>
 </div>
 <div class="main_btm"><!-- start main_btm -->
 <div class="container">
