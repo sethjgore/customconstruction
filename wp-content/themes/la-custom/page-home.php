@@ -94,6 +94,9 @@ get_header(); ?>
                     <li><img src="<?php bloginfo('template_url'); ?>/images/slider_pic5.jpg" alt="" class="img-responsive"/></li>
 
                 </ul>
+                <ul class="allinone_carousel_list">
+                  <li>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business<h3>Ken and Valerie</h3></li>
+                </ul>
           </div>
 </div>
 </div>
