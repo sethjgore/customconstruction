@@ -5,3 +5,11 @@ Author URI: http://hivemind.co
 Description: Base built by Josh Ferrara
 Version: 1.0
 */
+
+.is_position-relative{
+  position: relative;
+}
+.testmonial-box{
+  background: white;
+  padding: 30px;
+}

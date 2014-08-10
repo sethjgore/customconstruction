@@ -70,7 +70,7 @@ get_header(); ?>
 	</div>
 </div>
 </div>
-<div class="main1_bg"><!-- start main1 -->
+<div class="is_position-relative main1_bg"><!-- start main1 -->
 <div class="container">
 	<div class="main slider_text texxt-center">
 		<h4>Why LA Custom Construction?</h4>
@@ -78,17 +78,16 @@ get_header(); ?>
 </div>
 </div>
 <!-- start banner -->
-
 <div id="bannerBg">
   <div id="containingDiv">
               <div id="allinone_carousel_charming">
                 <div class="myloader"></div>
                   <!-- CONTENT -->
                   <ul class="allinone_carousel_list">
-                    <li><p>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business<p><h3>Ken and Valerie</h3></li>
-                    <li><p>It was a pleasure working with you both in building my first new home. I was green behind the ears to the whole process but yall made it fun and easy. Best of luck on all your future endeavors<p><h3>Hannah</h3></li>
-                    <li><p>Thanks for a beautiful home!<p><h3>Johnelle & Rod</h3></li>
-                    <li><p>I wanted to thank you all for being so organized and keeping in touch with me! That's so hard to fine in a contractor these days!<p><h3>Stacy</h3></li>
+                    <li class="testmonial-box"><p>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business<p><h3>Ken and Valerie</h3></li>
+                    <li class="testmonial-box"><p>It was a pleasure working with you both in building my first new home. I was green behind the ears to the whole process but yall made it fun and easy. Best of luck on all your future endeavors<p><h3>Hannah</h3></li>
+                    <li class="testmonial-box"><p>Thanks for a beautiful home!<p><h3>Johnelle & Rod</h3></li>
+                    <li class="testmonial-box"><p>I wanted to thank you all for being so organized and keeping in touch with me! That's so hard to fine in a contractor these days!<p><h3>Stacy</h3></li>
                   </ul>
             </div>
   </div>
