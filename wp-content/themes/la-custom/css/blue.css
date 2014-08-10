@@ -1616,6 +1616,10 @@ h3.style{
   border-radius: 0.7rem;
 }
 
+.allinone_carousel img{
+	display: none;
+}
+
 .is_color-salmon{
   color: hsl(4, 76%, 63%);
 }
