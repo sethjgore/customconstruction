@@ -1627,3 +1627,7 @@ h3.style{
 .is_display-none{
   display: none;
 }
+
+.member_img{
+	max-height: 100px;
+}
