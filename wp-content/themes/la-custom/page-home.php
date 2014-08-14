@@ -105,13 +105,13 @@ get_header(); ?>
   </div>
 
   <div class="span_of_3"><!-- start span_of_4 -->
-  <div class="col-md-3">
+  <div class="col-md-4">
     <img class="member_img center-block" src="<?php bloginfo('template_url'); ?>/images/member_logo_2.png">
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
     <img class="member_img center-block" src="<?php bloginfo('template_url'); ?>/images/member_logo_3.png">
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
     <img class="member_img center-block" src="<?php bloginfo('template_url'); ?>/images/member_logo_1.png">
   </div>
 
