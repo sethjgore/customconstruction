@@ -110,9 +110,14 @@ get_header(); ?>
 				<img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_2.png" style="height:85px">
 			</div>
 		</div>
+    <div class="item">
+      <div class="cau_left">
+        <img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_1.png" style="height:85px">
+      </div>
+    </div>
 		<div class="item">
 			<div class="cau_left">
-				<img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_1.png" style="height:85px">
+				<img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_3.png" style="height:85px">
 			</div>
 		</div>
 	</div><!----//End-img-cursual---->
