@@ -61,7 +61,7 @@ get_header(); ?>
 					<h3>Exploration</h3>
 					<p>Not sure exactly what you need? Check out our exploration department to find inspiration and fresh ideas.</p>
 					<div class="read_more">
-						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/portfolio">Get inspired</a>
+						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/exploration">Get inspired</a>
 					</div>
 				</div>
 			</div>

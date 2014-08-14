@@ -28,14 +28,17 @@ get_header(); ?>
         <div class="para"><?php the_content(); ?></div>
       </div>
     </div>
-    
-
-
+  </div>
+  <h4 class="text-center texxt-center center-block">You can check us out and hire us on Houzz</h4>
+  <div class="center-block">
+    <table style="width: 125px;" cellpadding="0" cellspacing="0"><tr><td><a href="http://www.houzz.com/pro/lacustomconstructionllc/la-custom-construction"><img src="http://www.houzz.com/res/1974/pic/badge125_125.png?v=1974" alt="Remodeling and Home Design" width="125" height="125" border="0" /></a></td></tr></table>
+  </div>
 </div>
 </div>
 
 <?php endwhile; else: ?>
 <p><?php _e('Sorry, no page matched your criteria.'); ?></p>
 <?php endif; ?>
+
 
 <?php get_footer(); ?>
