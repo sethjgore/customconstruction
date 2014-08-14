@@ -97,16 +97,19 @@ get_header(); ?>
   <div class="clear"></div>
 </div>
 
+<div class="main slider_text texxt-center">
+      <h4>Affilated Organizations We Work With</h4>
+  </div>
 
 <div class="span_of_3"><!-- start span_of_4 -->
   <div class="col-md-3">
-    <img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_2.png" style="height:85px">
+    <img class="member_img" src="<?php bloginfo('template_url'); ?>/images/member_logo_2.png">
   </div>
   <div class="col-md-3">
-    <img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_3.png" style="height:85px">
+    <img class="member_img" src="<?php bloginfo('template_url'); ?>/images/member_logo_3.png">
   </div>
   <div class="col-md-3">
-    <img class="lazyOwl" data-src="<?php bloginfo('template_url'); ?>/images/member_logo_1.png" style="height:85px">
+    <img class="member_img" src="<?php bloginfo('template_url'); ?>/images/member_logo_1.png">
   </div>
 
   <div class="clearfix"></div>
