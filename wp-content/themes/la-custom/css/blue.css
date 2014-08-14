@@ -69,7 +69,7 @@ nav{
 }
 .menu li a:hover,.menu li:hover>a{
 	color:#ffffff;
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 }
 .menu ul{
 	display: none;
@@ -93,7 +93,7 @@ nav{
 }
 .menu ul li a:hover,.menu ul li:hover>a{
 	background: #f0f0f0;
-	border-left: 3px solid #4985a3;
+	border-left: 3px solid hsl(177, 25%, 51%);
 	color: #797979;
 	box-shadow: none;
 	border-radius: 0px;
@@ -244,10 +244,10 @@ nav{margin:0;background:none;}.menu li{display:block;margin:0;}.menu li a{backgr
 	transition: all 0.3s ease-in-out;
 }
 .span4_of_list .btn{
-	box-shadow: 0 4px #3d6f8c;
-	-webkit-box-shadow: 0 4px #3d6f8c;
-	-moz-box-shadow: 0 4px #3d6f8c;
-	-o-box-shadow: 0 4px #3d6f8c;
+	box-shadow: 0 4px hsl(177, 25%, 41%);
+	-webkit-box-shadow: 0 4px hsl(177, 25%, 41%);
+	-moz-box-shadow: 0 4px hsl(177, 25%, 41%);
+	-o-box-shadow: 0 4px hsl(177, 25%, 41%);
 }
 .span4_of_list:hover .btn{
 	color:#ffffff;
@@ -266,7 +266,7 @@ nav{margin:0;background:none;}.menu li{display:block;margin:0;}.menu li a{backgr
 }
 .span4_of_list span i{
 	font-size:5em;
-	color: #4985a3;
+	color: hsl(177, 25%, 51%);
 	background: none;
 	box-shadow:none;
 	margin-top: 15px;
@@ -431,7 +431,7 @@ margin-top: -85px;
 }
 /*-- start footer --*/
 .footer_bg{
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 }
 .footer{
 	padding: 4% 0;
@@ -551,7 +551,7 @@ margin-top: -85px;
 }
 /*-- start footer1 --*/
 .footer1_bg{
-	background: #3d6f8c;
+	background: hsl(177, 25%, 41%);
 }
 .footer1{
 	padding: 2% 0;
@@ -699,7 +699,7 @@ h3.style{
 }
 /*Price tags*/
 .price {
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 	display: table;
 	width: 100%;
 	height: 80px;
@@ -773,7 +773,7 @@ h3.style{
 	padding: 10px 30px;
 	border: 1px solid rgb(221, 221, 221);
 	text-decoration: none;
-	color: #3d6f8c;
+	color: hsl(177, 25%, 41%);
 	cursor: pointer;
 	text-transform: uppercase;
 	transition: 0.5s all;
@@ -821,7 +821,7 @@ h3.style{
 	bottom:-40px;
 }
 .portfolio .label-bg {
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 	width: 100%;
 	height:100%;
 	position: absolute;
@@ -1041,7 +1041,7 @@ h3.style{
 	font-size: 14px;
 	color: #FFFFFF !important;
 	padding: 12px 30px;
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 	line-height: 20px;
 	text-transform: uppercase;
 	border: none;
@@ -1055,13 +1055,13 @@ h3.style{
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	-o-border-radius: 2px;
-	box-shadow: inset 0px -4px 0px #3d6f8c;
-	-webkit-box-shadow: inset 0px -4px 0px #3d6f8c;
-	-moz-box-shadow: inset 0px -4px 0px #3d6f8c;
-	-o-box-shadow: inset 0px -4px 0px #3d6f8c;
+	box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-webkit-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-moz-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-o-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
 }
 .news_letter form input[type="submit"]:hover{
-	background: #3d6f8c;
+	background: hsl(177, 25%, 41%);
 }
 
 
@@ -1267,7 +1267,7 @@ h3.style{
 	font-size: 14px;
 	color: #FFFFFF !important;
 	padding: 12px 30px;
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 	line-height: 20px;
 	text-transform: uppercase;
 	border: none;
@@ -1281,13 +1281,13 @@ h3.style{
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	-o-border-radius: 2px;
-	box-shadow: inset 0px -4px 0px #3d6f8c;
-	-webkit-box-shadow: inset 0px -4px 0px #3d6f8c;
-	-moz-box-shadow: inset 0px -4px 0px #3d6f8c;
-	-o-box-shadow: inset 0px -4px 0px #3d6f8c;
+	box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-webkit-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-moz-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-o-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
 }
 .btn:hover{
-	background: #3d6f8c;
+	background: hsl(177, 25%, 41%);
 }
 /* start contact */
 .contact{
@@ -1374,7 +1374,7 @@ h3.style{
 	font-size: 14px;
 	color: #FFFFFF;
 	padding: 12px 30px;
-	background: #4985a3;
+	background: hsl(177, 25%, 51%);
 	line-height: 20px;
 	text-transform: uppercase;
 	border: none;
@@ -1388,13 +1388,13 @@ h3.style{
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	-o-border-radius: 2px;
-	box-shadow: inset 0px -4px 0px #3d6f8c;
-	-webkit-box-shadow: inset 0px -4px 0px #3d6f8c;
-	-moz-box-shadow: inset 0px -4px 0px #3d6f8c;
-	-o-box-shadow: inset 0px -4px 0px #3d6f8c;
+	box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-webkit-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-moz-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
+	-o-box-shadow: inset 0px -4px 0px hsl(177, 25%, 41%);
 }
 .contact-form form input[type="submit"]:hover{
-	background: #3d6f8c;
+	background: hsl(177, 25%, 41%);
 }
 /* start details */
 .details {
@@ -1631,3 +1631,6 @@ h3.style{
 .member_img{
 	max-height: 100px;
 }
+
+
+
