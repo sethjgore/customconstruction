@@ -48,6 +48,7 @@
       <div class="soc_icons pull-right">
         <ul class="list-unstyled text-center">
           <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
+          <li><a href="http://www.houzz.com/pro/lacustomconstructionllc/la-custom-construction"><img class="aligncenter" src="http://www.houzz.com/res/1974/pic/badge64_64.png?v=1974" alt="Remodeling and Home Design" width="64" height="64" border="0" /></a></li>
           <li><a href="https://www.facebook.com/pages/LA-Custom-Construction-LLC/181921125159921"><i class="fa fa-facebook"></i></a></li>
           <!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
         </ul>
