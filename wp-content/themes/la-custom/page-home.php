@@ -91,9 +91,22 @@ get_header(); ?>
            <p>It was a pleasure working with you both in building my first new home. I was green behind the ears to the whole process but yall made it fun and easy. Best of luck on all your future endeavors</p><h3 class="is_color-salmon">Hannah</h3>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
           <div class="span4_of_list">
             <p>I wanted to thank you all for being so organized and keeping in touch with me! That's so hard to fine in a contractor these days!</p><h3 class="is_color-salmon">Stacy</h3>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div><!-- end span_of_4 -->
+      <div class="span_of_4"><!-- start span_of_4 -->
+        <div class="col-md-4">
+          <div class="span4_of_list">
+           <p>Thanks for a beautiful home!</p><h3 class="is_color-salmon">Johnelle & Rod</h3>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="span4_of_list">
+            <p>Our new home is truly a work of art created by Luke and Jamie.  They took such pride in the creative touches and details.  They even made the purchasing process enjoyable!  It was much more than business - but a relationship that has been so fulfilling and satisfying </p><h3 class="is_color-salmon">Johnelle & Rod</h3>
           </div>
         </div>
         <div class="clearfix"></div>
