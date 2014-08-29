@@ -58,10 +58,10 @@ get_header(); ?>
 			<div class="col-md-3">
 				<div class="span4_of_list">
 					<span><i class="fa fa-flask"></i></span>
-					<h3>Exploration</h3>
-					<p>Not sure exactly what you need? Check out our exploration department to find inspiration and fresh ideas.</p>
+					<h3>Portfolio</h3>
+					<p>Not sure exactly what you need? Check out pictures of our previous work to find inspiration and fresh ideas.</p>
 					<div class="read_more">
-						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/exploration">Get inspired</a>
+						<a class="btn btn-2b" href="<?php bloginfo('url'); ?>/portfolio">Get inspired</a>
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@ get_header(); ?>
 <div class="main_btm"><!-- start main_btm -->
 <div class="container">
   <div class="main slider_text texxt-center">
-      <h4>Organizations We Work With</h4>
+      <h4>Organizations We are a part of</h4>
   </div>
 
   <div class="span_of_3"><!-- start span_of_4 -->
