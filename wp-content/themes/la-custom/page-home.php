@@ -75,10 +75,8 @@ get_header(); ?>
   	<div class="main slider_text texxt-center">
   		<h4>Why LA Custom Construction?</h4>
   		<p>You have your choice of many home builders. Here are just a few examples of why our clients think we're the best.</p>
-  </div>
+    </div>
     <!-- start banner -->
-  <div>
-    <div class="container">
       <div class="row">
         <div class="col-md-3"><img class="is_display_none" src="<?php bloginfo('template_url'); ?>/images/empty-thin.png"><p>Luke & Jamie- Thank you for everything. We love our outdoor kitchen and have really enjoyed it this summer. Yall are extremely talented and we wish you the best of luck with your business</p><h3 class="is_color-salmon">Ken and Valerie</h3></div>
         <div class="col-md-3"><img class="is_display_none" src="<?php bloginfo('template_url'); ?>/images/empty-thin.png"><p>It was a pleasure working with you both in building my first new home. I was green behind the ears to the whole process but yall made it fun and easy. Best of luck on all your future endeavors</p><h3 class="is_color-salmon">Hannah</h3></div>
@@ -88,8 +86,7 @@ get_header(); ?>
         <div class="col-md-3"><img class="is_display_none" src="<?php bloginfo('template_url'); ?>/images/empty-thin.png"><p>I wanted to thank you all for being so organized and keeping in touch with me! That's so hard to fine in a contractor these days!</p><h3 class="is_color-salmon">Stacy</h3></div>
         <div class="col-md-3"> <img class="is_display_none" src="<?php bloginfo('template_url'); ?>/images/empty-thin.png"><p>Our new home is truly a work of art created by Luke and Jamie.  They took such pride in the creative touches and details.  They even made the purchasing process enjoyable!  It was much more than business - but a relationship that has been so fulfilling and satisfying </p><h3 class="is_color-salmon">Johnelle & Rod</h3></div>
       </div>
-    </div>
-  </div>
+
    <!-- end banner -->
   </div>
   <div class="clear"></div>
