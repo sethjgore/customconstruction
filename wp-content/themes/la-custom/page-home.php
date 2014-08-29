@@ -109,11 +109,6 @@ get_header(); ?>
             <p>Our new home is truly a work of art created by Luke and Jamie.  They took such pride in the creative touches and details.  They even made the purchasing process enjoyable!  It was much more than business - but a relationship that has been so fulfilling and satisfying </p><h3 class="is_color-salmon">Johnelle & Rod</h3>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="span4_of_list">
-            <p>Become one of our clients and tell us you experience!</p><h3 class="is_color-salmon">YOU!</h3>
-          </div>
-        </div>
         <div class="clearfix"></div>
       </div><!-- end span_of_4 -->
     </div>
